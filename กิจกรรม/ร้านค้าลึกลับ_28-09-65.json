@@ -1,0 +1,145 @@
+{
+  "data": {
+    "crystal_reward": [
+      {
+        "diamonds": 9,
+        "fileid": "81ff4f38-3e10-11ed-b83c-00163e00bcb4",
+        "gift_id": "6332673e52d3c2406848b0c1",
+        "grant_type": "gift",
+        "possibility": 0.6,
+        "region_name": "เมาส์เกมมิ่ง",
+        "resource": "gift-6332673e52d3c2406848b0c1"
+      },
+      {
+        "diamonds": 499,
+        "fileid": "1ce60f1e-3e2a-11ed-a5dd-00163e00bcb4",
+        "gift_id": "6332923352d3c2424232b6c0",
+        "grant_type": "chat_bubble",
+        "possibility": 0.05,
+        "region_name": "เซิร์ฟบอร์ด",
+        "resource": "chat_bubble-6332923352d3c2424232b6c0",
+        "valid_day": 1
+      },
+      {
+        "diamonds": 699,
+        "fileid": "abbbd796-3e11-11ed-8c63-00163e0453f1",
+        "gift_id": "633269318b13d4510fb1aa29",
+        "grant_type": "frame",
+        "possibility": 0.04,
+        "region_name": "หูฟังเกมมิ่ง",
+        "resource": "frame-633269318b13d4510fb1aa29",
+        "valid_day": 1
+      },
+      {
+        "diamonds": 299,
+        "fileid": "3e6d536e-3e5b-11ed-aaaf-00163e00bcb4",
+        "gift_id": "63326c7752d3c2406848cffd",
+        "grant_type": "profile_card",
+        "possibility": 0.12,
+        "region_name": "คอมพิวเตอร์เกมมิ่ง",
+        "resource": "profile_card-63326c7752d3c2406848cffd",
+        "valid_day": 1
+      },
+      {
+        "diamonds": 29,
+        "fileid": "ce1cd8b8-3e10-11ed-b0bc-00163e0453f1",
+        "gift_id": "633267bd8b13d47902995e81",
+        "grant_type": "gift",
+        "possibility": 0.16,
+        "region_name": "หูฟังเกมมิ่ง",
+        "resource": "gift-633267bd8b13d47902995e81"
+      },
+      {
+        "diamonds": 3999,
+        "effect_fileid": "08343008-3e13-11ed-8dd5-00163e00bcb4",
+        "effect_format": 2,
+        "fileid": "08265ece-3e13-11ed-8dd5-00163e00bcb4",
+        "floating_bar": "082a0a2e-3e13-11ed-8dd5-00163e00bcb4",
+        "gift_id": "63326b7a52d3c2480f866292",
+        "grant_type": "effect",
+        "possibility": 0.03,
+        "region_name": "คีย์บอร์ดเกมมิ่ง",
+        "resource": "effect-63326b7a52d3c2480f866292",
+        "valid_day": 1
+      }
+    ],
+    "monster_config": {
+      "1": {
+        "fileid": "c0b1046a-1700-11ed-8fd9-00163e082620",
+        "name": "หญ้า",
+        "possibility": 0.212,
+        "tag": "Grass"
+      },
+      "2": {
+        "fileid": "c0a571b8-1700-11ed-8170-00163e082620",
+        "name": "ไฟฟ้า",
+        "possibility": 0.212,
+        "tag": "Electric"
+      },
+      "3": {
+        "fileid": "c0bf5d58-1700-11ed-8fd9-00163e082620",
+        "name": "ลม",
+        "possibility": 0.03,
+        "tag": "Wind"
+      },
+      "4": {
+        "fileid": "c0b7509a-1700-11ed-8fd9-00163e082620",
+        "name": "ไฟ",
+        "possibility": 0.182,
+        "tag": "Fire"
+      },
+      "5": {
+        "fileid": "c0bb3232-1700-11ed-8fd9-00163e082620",
+        "name": "Water",
+        "possibility": 0.182,
+        "tag": "Water"
+      },
+      "6": {
+        "fileid": "c0a40e5e-1700-11ed-9755-00163e082620",
+        "name": "ดิน",
+        "possibility": 0.182,
+        "tag": "Soil"
+      }
+    },
+    "monster_reward": [
+      {
+        "diamonds": 49999,
+        "fileid": "b73792ac-35bc-11ed-b1f4-00163e00bcb4",
+        "gift_id": "63246eb052d3c250d67675bd",
+        "grant_type": "diamond_ring",
+        "possibility": 0.03,
+        "region_name": "ดวงดาวและดวงจันทร์",
+        "resource": "diamond_ring-63246eb052d3c250d67675bd"
+      },
+      {
+        "diamonds": 7999,
+        "fileid": "a244d1d0-343a-11ed-a7e2-00163e0453f1",
+        "gift_id": "6321e6f38b13d47af239a94a",
+        "grant_type": "diamond_ring",
+        "possibility": 0.07,
+        "region_name": "ฝนดาวตก",
+        "resource": "diamond_ring-6321e6f38b13d47af239a94a"
+      },
+      {
+        "diamonds": 1399,
+        "fileid": "10fc4f1c-5cd8-11ec-aac4-00163e01ff52",
+        "gift_id": "61b88bc983cb7d3094461d7c",
+        "grant_type": "diamond_ring",
+        "possibility": 0.2,
+        "region_name": "แหวนดอกไม้",
+        "resource": "diamond_ring-61b88bc983cb7d3094461d7c"
+      },
+      {
+        "diamonds": 799,
+        "fileid": "b1ee69a6-358b-11ec-8165-00163e01ff52",
+        "gift_id": "61769d4883cb7d2e502339b6",
+        "grant_type": "diamond_ring",
+        "possibility": 0.7,
+        "region_name": "กุหลาบไฮคลาส",
+        "resource": "diamond_ring-61769d4883cb7d2e502339b6"
+      }
+    ]
+  },
+  "result": 0,
+  "success": true
+}
